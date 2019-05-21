@@ -174,12 +174,6 @@ We want to make it super-easy for Peatio users and contributors to talk to us an
 This is for all Peatio users. You can find guides, recipes, questions, and answers from Snowplow users including the Peatio.tech team.
 We welcome questions and contributions!
 
-### Telegram
-
-[@peatio](https://t.me/peatio)
-
-Chat with us and other community members on Telegram.
-
 ### GitHub
 Peatio issues
 
@@ -190,16 +184,14 @@ If you want to brainstorm a potential new feature, then the Rubykube Discourse F
 https://international.bittrex.com/
 
 ### Email
-hello@peatio.tech
+aaccou52@gmail.com
 
 If you want to talk directly to us (e.g. about a commercially sensitive issue), email is the easiest way.
 
 ## Getting Support and Customization
 
 If you need help with running/deploying/customizing Peatio,
-you can contact us on [peatio.tech](https://www.peatio.tech).
-
-Contact us by email: [hello@peatio.tech](mailto:hello@peatio.tech)
+you can contact us by email: [aaccou52@gmail.com](mailto:aaccou52@gmail.com)
 
 ## License
 
